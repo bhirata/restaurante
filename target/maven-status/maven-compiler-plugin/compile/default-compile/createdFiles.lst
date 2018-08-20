@@ -1,0 +1,14 @@
+br/com/restaurante/app/controllers/HomeController.class
+br/com/restaurante/app/controllers/RestauranteController.class
+br/com/restaurante/app/conf/JPAConfiguration.class
+br/com/restaurante/app/dao/RestauranteRepository.class
+br/com/restaurante/app/models/Prato.class
+br/com/restaurante/app/dao/PratoRepository.class
+br/com/restaurante/app/controllers/PratosController.class
+br/com/restaurante/app/conf/WebMVCConfigurer.class
+br/com/restaurante/app/models/Restaurante.class
+br/com/restaurante/app/request/PratoRequest.class
+br/com/restaurante/app/models/Usuario.class
+br/com/restaurante/app/conf/SecurityConfiguration.class
+br/com/restaurante/app/conf/AppWebConfiguration.class
+br/com/restaurante/app/models/Role.class
